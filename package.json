@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Li Long",
+    "email": "lilong@chainbow.com"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "md5": "^2.2.1"
+  },
+  "description": "A SV.Cafe helper library",
+  "devDependencies": {},
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "svcafe",
+  "scripts": {},
+  "version": "0.1.0"
+}
