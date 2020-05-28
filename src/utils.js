@@ -10,9 +10,7 @@ const md5 = require( "md5" );
  * @return {*} signature 将 app、cny、address、timestamp、app_secret 参数的值按顺序拼接后 MD5} queryData 
  */
 function CreateSignature ( app, cny, address, timestamp, app_secret ) {
-  const hash = md5( app + cny + address + timestamp + app_secret );
-  const sign = hash.toString()
-  return sign;
+  return md5( app + cny + address + timestamp + app_secret );
 }
 
 module.exports = {
