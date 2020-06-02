@@ -1,7 +1,7 @@
 {
   "author": {
     "name": "Li Long",
-    "email": "lilong@chainbow.com"
+    "email": "lilong@chainbow.io"
   },
   "dependencies": {
     "axios": "^0.19.2",
