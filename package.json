@@ -4,8 +4,8 @@
     "email": "lilong@chainbow.io"
   },
   "dependencies": {
-    "axios": "^0.19.2",
-    "md5": "^2.2.1"
+    "axios": "^0.21.1",
+    "md5": "^2.3.0"
   },
   "description": "A SV.Cafe helper library",
   "devDependencies": {},
