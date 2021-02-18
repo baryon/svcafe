@@ -4,7 +4,7 @@ https://sv.cafe
 
 ## Documentation
 
-Contact aaron67@sv.cafe for Document.
+https://sv.cafe/static/api_doc.html
 
 ## Sample Usage
 
